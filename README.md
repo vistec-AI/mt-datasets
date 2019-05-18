@@ -7,3 +7,4 @@ This repo collects en-th and zh-th parallel corpus as part of the MT workstream.
 |-----------------------------|---------------------|-------|-------|------------|
 | [Indo-Pacific Defense Forum](http://apdf-magazine.com/) | 45,300 | ◯ | ◯ | apdf.ipynb |
 | [Ministry of Foreign Affiars](http://mfa.go.th/main/en/news3) | 27,750‬ | ◯ | ✕ | mfa.ipynb |
+| [Learning Thai with Post Today](https://www.bangkokpost.com/learning/learning-news/333366/learning-thai-with-post-today-archive) | 485 | ◯ | ✕ |  |
