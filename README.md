@@ -15,7 +15,7 @@ We will also translate English datasets for standard NLP tasks so that they are 
 
 | sources | task | sentences | license | remarks |
 |--------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-----------|--------------|------------------------------------------------------------------------------------------------------------------|
-| [Stanford Question Answering Dataset   (SQuAD)](https://rajpurkar.github.io/SQuAD-explorer/) | question_answering | 384,628 | CC BY-SA 4.0 | 123,990 sentences from contexts and 260,638 sentences from questions and   answers |
+| [Stanford Question Answering Dataset (SQuAD)](https://rajpurkar.github.io/SQuAD-explorer/) | question_answering | 254,309 | CC BY-SA 4.0 | 123,990 sentences from contexts and 130,319 sentences from questions |
 | [Coached Conversational Preference   Elicitation   (CCPE)](https://ai.google/tools/datasets/coached-conversational-preference-elicitation) | conversation | 11,971 | CC BY-SA 4.0 | assuming one sentence per uttrance |
 | [Taskmaster-1](https://storage.googleapis.com/dialog-data-corpus/TASKMASTER-1-2019/landing_page.html) | conversation | 301,876 | CC BY-SA 4.0 | 169,469 sentences from self-dialog and 132,407 from Wizard-of-Oz   dialogues; assuming one sentence per uttrance |
 | [COCO 2015 Image   Captioning](http://cocodataset.org/#captions-2015) | image_captioning | 414,113 | CC BY-SA 4.0 |  |
