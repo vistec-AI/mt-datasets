@@ -22,6 +22,7 @@ We will also translate English datasets for standard NLP tasks so that they are 
 | [Stanford Question Answering Dataset   (SQuAD)](https://rajpurkar.github.io/SQuAD-explorer/) | question_answering | 254,309 | CC BY-SA 4.0 | O | BERT | 123,990 sentences from contexts and 130,319 sentences from questions |
 | [STSbenchmark](http://ixa2.si.ehu.es/stswiki/index.php/STSbenchmark) | semantic_similarity | 17,256 | [CC BY-SA   3.0](https://github.com/microsoft/nlp/blob/master/DatasetReferences.md) | O | BERT | 8,628 sentence pairs |
 | [Microsoft Research Paraphrase   Corpus](https://www.microsoft.com/en-us/download/details.aspx?id=52398) | paraphrasing | 11,600 | [MIT](https://github.com/microsoft/nlp/blob/master/LICENSE) | O | BERT |  |
+| [SkyTrax User Review](https://github.com/quankiquanki/skytrax-reviews-dataset) | sentiment | 62,639 | NA | O | NA | 41396 airline reviews, 17721 airport reviews, 1258 seat reviews and 2264 lounge reviews |
 | [Quora Question   Pairs](https://www.quora.com/q/quoradata/First-Quora-Dataset-Release-Question-Pairs) | semantic_similarity | 404,290 | [non-commercial](https://www.quora.com/q/quoradata/First-Quora-Dataset-Release-Question-Pairs) | X | BERT |  |
 | [The Corpus of Linguistic   Acceptability](https://nyu-mll.github.io/CoLA/) | grammatical_correctness | 10,657 | copyright | X | BERT |  |
 | [The Stanford Sentiment   Treebank](https://nlp.stanford.edu/sentiment/index.html) | sentiment_analysis | 11,855 | NA | X | BERT |  |
