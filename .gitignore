@@ -1,4 +1,5 @@
 #led / optimized / DLL files
+*.txt
 data/
 __pycache__/
 *.py[cod]
