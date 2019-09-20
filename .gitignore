@@ -1,4 +1,9 @@
 #led / optimized / DLL files
+*.gz
+*.zip
+*.csv
+*.tsv
+*.json
 *.txt
 data/
 __pycache__/
